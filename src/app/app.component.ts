@@ -27,14 +27,14 @@ export class AppComponent {
   foundRunewords: Runeword[] = [];
 
   constructor(private http: HttpClient) {
-    this.http.get<Runeword[]>('/runewords.json').subscribe(data => {
+    this.http.get<Runeword[]>('runewords.json').subscribe(data => {
       this.runewords = data;
       this.filter();
     });
-    this.http.get<Runes>('/runes.json').subscribe(data => {
+    this.http.get<Runes>('runes.json').subscribe(data => {
       this.runes = data;
     });
-    this.http.get<string[]>('/types.json').subscribe(data => {
+    this.http.get<string[]>('types.json').subscribe(data => {
       this.itemTypes = data;
     });
 

@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "d2remodded": {
+    "d2remodded-rw": {
       "projectType": "application",
       "schematics": {},
       "root": "",
