@@ -1,0 +1,3988 @@
+[
+  {
+    "name": "Mist",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 3,
+    "runes": [
+      "El",
+      "Eld",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "El Eld Tir",
+      "Armor (3os)",
+      "+5% Faster Run/Walk",
+      "+4-8 to Maximum Damage",
+      "+15-25 Defense",
+      "+2 Cold Absorb",
+      "+2 to Mana after each kill",
+      "Thorns: +4",
+      "+0-5% to Experience gained",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 6,
+    "sockets": 3
+  },
+  {
+    "name": "Loyalty",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Belt"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Nef",
+      "Ith"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Nef Ith",
+      "Belt (2os)",
+      "+10-18% Faster Hit Recovery",
+      "+10-15% Enhanced Damage",
+      "+25-30% Enhanced Defense",
+      "+0-2 Summoning Power",
+      "Increase Strength by 3-6%",
+      "+10% Damage Taken goes to Mana"
+    ],
+    "rune_weight": 10,
+    "sockets": 2
+  },
+  {
+    "name": "Madness",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Belt"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Eth",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Eth Tir",
+      "Belt (2os)",
+      "+20% Increased Attack Speed",
+      "+0-3 Spell Power",
+      "+0-3 Combat Power",
+      "Drain Life -5",
+      "Regenerate Mana 10%",
+      "Life stolen per hit: +3",
+      "+2 to Mana after each kill"
+    ],
+    "rune_weight": 8,
+    "sockets": 2
+  },
+  {
+    "name": "Mystery",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Boots"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Ith",
+      "Nef"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ith Nef",
+      "Boots (2os)",
+      "+3-5% to Magic Skill Damage",
+      "+3-5% to Poison Skill Damage",
+      "+5-15 Defense",
+      "+30 Defense vs. Missile",
+      "Summon Max HP: +10-20%",
+      "Summon Damage: +10-20%",
+      "10% Damage taken goes to Mana",
+      "-4 Light Radius"
+    ],
+    "rune_weight": 10,
+    "sockets": 2
+  },
+  {
+    "name": "Daylight",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Boots",
+      "Gloves"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Eld",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Eld Tir",
+      "Boots (2os)",
+      "5% Faster Run/Walk",
+      "+10-15 Defense",
+      "Lightning Resist +10-15%",
+      "Fire Resist +10-15%",
+      "+2 to Mana after each kill",
+      "+5 to Light Radius",
+      "Eld Tir",
+      "Gloves (2os)",
+      "+75% Damage to Undead",
+      "+50% to Attach Rating against Undead",
+      "+10-15 Defense",
+      "Lightning Resist +10-15%",
+      "Fire Resist +10-15%",
+      "+5 to Light Radius"
+    ],
+    "rune_weight": 5,
+    "sockets": 2
+  },
+  {
+    "name": "Broken Promise",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Gloves"
+    ],
+    "clvl": 3,
+    "runes": [
+      "El",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "El Tir",
+      "Gloves (2os)",
+      "+10-15% Increased Attack Speed",
+      "+5-15% Enhanced Damage",
+      "+3% Chance of Crushing Blow",
+      "+10-15% Enhanced Defense",
+      "+5-15 to Life",
+      "+0-15 to Mana",
+      "+2 to Mana after each kill",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 4,
+    "sockets": 2
+  },
+  {
+    "name": "Love",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Gloves"
+    ],
+    "clvl": 3,
+    "runes": [
+      "El",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "El Eth",
+      "Gloves (2os)",
+      "+10-15% Faster Cast Rate",
+      "-25% Target Defense",
+      "30 to Attack Rating",
+      "+0.5 Defense (Clvl)",
+      "+0.375 to Life (Clvl)",
+      "+10-25 to Mana",
+      "+1-3 to Mana after each kill",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 6,
+    "sockets": 2
+  },
+  {
+    "name": "Nadir",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Helms"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Nef",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Nef Tir",
+      "Helms (2os)",
+      "+2 to Cloak of Shadows",
+      "+50% Enhanced Defense",
+      "+10 Defense",
+      "+30 Defense vs. Missile",
+      "+5 to Strength",
+      "+2 to Mana after each Kill",
+      "-33% Increased God Find",
+      "-3 to Light Radius"
+    ],
+    "rune_weight": 7,
+    "sockets": 2
+  },
+  {
+    "name": "Humility",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Shields",
+      "Orbs"
+    ],
+    "clvl": 3,
+    "runes": [
+      "El",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "El Tir",
+      "Shields (2os)",
+      "-10% Increased Chance of Blocking",
+      "+5% to Elemental Skill Damage",
+      "+55 Defense",
+      "Maximum Life +5-10%",
+      "+60 to Mana",
+      "All Resistances -5 to +5%",
+      "+2 to Mana after each kill",
+      "+1 to Light Radius",
+      "\"Innocence",
+      "(Necromancer Only)\"",
+      "Ral Tal",
+      "Necro Shields (2os)",
+      "10% CtC level 2 Nova when struck",
+      "+1 to Clay Golem (Necromancer Only)",
+      "+50 Defense",
+      "+10 to Strength",
+      "Maximum Life +3-5%",
+      "Maximum Mana +3-5%",
+      "Cold Resist 5%",
+      "Fire Resist 25%",
+      "Lightning Resist 5%",
+      "Poison Resist 5%",
+      "+5 Life after each Demon kill",
+      "El Tir",
+      "Orbs/Shields (2os)",
+      "-10% Increased Chance of Blocking",
+      "+30 to Attack Rating",
+      "+5% to Elemental Skill Damage",
+      "+40 Defense",
+      "Maximum Life +5-10%",
+      "+60 to Mana",
+      "All Resistances -5 to +5%",
+      "+2 to Mana after each kill",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 4,
+    "sockets": 2
+  },
+  {
+    "name": "Steel",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Maces",
+      "Swords"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Tir",
+      "El"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tir El",
+      "Aces/Maces/Swords (2os)",
+      "+25% Increased Attack Speed",
+      "+20% Enhanced Damage",
+      "+3 To Minimum Damage",
+      "+3 To Maximum Damage",
+      "+30 To Attack Rating",
+      "+25% Chance Of Open Wounds",
+      "+2 To Mana After Each Kill",
+      "+1 To Light Radius"
+    ],
+    "rune_weight": 4,
+    "sockets": 2
+  },
+  {
+    "name": "Pestilence",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Nef",
+      "Ith"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Nef Ith",
+      "Bows/Crossbows (2os)",
+      "+10% Increased Attack Speed",
+      "25% Piercing Attack",
+      "+15-30% Enhanced Damage",
+      "+6 to Maximum Damage",
+      "+15 Poison Damage over 4 seconds",
+      "Knockback",
+      "+1 Spell Power"
+    ],
+    "rune_weight": 10,
+    "sockets": 2
+  },
+  {
+    "name": "Malice",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 3,
+    "runes": [
+      "Ith",
+      "El",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ith El Eth",
+      "Melee (3os)",
+      "+33% Enhanced Damage",
+      "+6 to Maximum Damage",
+      "-25% Target Defense",
+      "+30 to Attack Rating",
+      "+25% Chance to Open Wounds",
+      "Prevent Monster Heal",
+      "-100 to Monster Defense per hit",
+      "Drain Life -5"
+    ],
+    "rune_weight": 12,
+    "sockets": 3
+  },
+  {
+    "name": "Law",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 5,
+    "runes": [
+      "El",
+      "Tir",
+      "Tal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "El Tir Tal",
+      "Armor (3os)",
+      "2% CtC Level 2 Fire Ball when striking",
+      "3% CtC Level 5 Holy Bolt when striking",
+      "+20-25% Enhanced Defense",
+      "+10 Defense",
+      "+4-10 to Strength",
+      "Maximum Life +3-5%",
+      "Poison Resist +10%",
+      "Damage Reduced by 2-5%",
+      "+2 to Mana after each kill",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 11,
+    "sockets": 3
+  },
+  {
+    "name": "Stealth",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Tal",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tal Eth",
+      "Armor (2os)",
+      "+25% Faster Run/Walk",
+      "+25% Faster Cast Rate",
+      "+25% Faster Hit Recovery",
+      "+6-10 To Strength",
+      "+6 To Dexterity",
+      "Regenerate Mana 10%",
+      "Poison Resist +10%",
+      "Magic Damage Reduced by 3"
+    ],
+    "rune_weight": 12,
+    "sockets": 2
+  },
+  {
+    "name": "Lust",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Belt"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Eld",
+      "Tal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Eld Tal",
+      "Belt (2os)",
+      "+5% Faster Run/Walk",
+      "+8-14 Faster Hit Recovery",
+      "Poison Resists +10%",
+      "Damage Reduced by 3",
+      "+2 to Mana after each kill",
+      "+4 Life after demon Kill"
+    ],
+    "rune_weight": 9,
+    "sockets": 2
+  },
+  {
+    "name": "Lightning",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Boots"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Ort",
+      "El"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ort El",
+      "Boots (2os)",
+      "5% CtC level 3 Charged Bolt when struck",
+      "+20% Faster Run/Walk",
+      "+10-25% Enhanced Defense",
+      "Regenerate Mana 10-15%",
+      "Lightning Resist +10%",
+      "Lightning Thorns: +1-4",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 10,
+    "sockets": 2
+  },
+  {
+    "name": "Authority",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Gloves"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Tir",
+      "Ort"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tir Ort",
+      "Gloves (2os)",
+      "+10% Increased Attack Speed",
+      "+12% Faster Hit Recovery",
+      "Adds 1-25 Lightning damage",
+      "1-5% Life stolen per hit",
+      "+10-50% Enhanced Defense",
+      "+2 to Mana after each kill",
+      "Fire Thorns: 4"
+    ],
+    "rune_weight": 12,
+    "sockets": 2
+  },
+  {
+    "name": "Morning",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Gloves"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Nef",
+      "Ral"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Nef Ral",
+      "Gloves (2os)",
+      "Adds 3-15 Fire Damage",
+      "+2-4% to Fire Skill Damage",
+      "Knockback",
+      "Fire Resist +10%",
+      "Half Freeze Duration",
+      "Fire Thorns: +3",
+      "+0-5% to Experience Gained",
+      "5-10% Increased Magic Find"
+    ],
+    "rune_weight": 12,
+    "sockets": 2
+  },
+  {
+    "name": "Obsession",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Helms"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Ral",
+      "Tal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ral Tal",
+      "Helms (2os)",
+      "+10-25% Enhanced Defense",
+      "Maximum Life 0 to -5%",
+      "Maximum Mana 0 to -5%",
+      "Fire Resist +10%",
+      "Poison Resist +10%",
+      "30-60% Increased Gold Find",
+      "5-15% Increased Magic Find",
+      "Radiance",
+      "Nef Sol Ith",
+      "Helms (3os)",
+      "+75% Enhanced Defense",
+      "+30 Defense vs. Missile",
+      "+10 to Vitality",
+      "+10 to Energy",
+      "+33 to Mana",
+      "Damage reduced by 4",
+      "Magic Damage reduced by 3",
+      "10% Damage taken goes to Mana",
+      "+5 to Light Radius"
+    ],
+    "rune_weight": 15,
+    "sockets": 2
+  },
+  {
+    "name": "Ancient's Pledge",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Shields"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ral Ort Tal",
+      "Shields (3os)",
+      "30% Enhanced Damage",
+      "50% Enhanced Defense",
+      "All Resistances +33",
+      "10% Damage taken goes to Mana"
+    ],
+    "rune_weight": 24,
+    "sockets": 3
+  },
+  {
+    "name": "Zephyr",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Ort",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ort Eth",
+      "Bows/Crossbows (2os)",
+      "7% CtC Level 10 Tornado when struck",
+      "+25% Faster Run/Walk",
+      "+25% Increased Attack Speed",
+      "+33% Enhanced Damage",
+      "+6 to Maximum Damage",
+      "-25% Target Defense",
+      "+66 to Attack Rating",
+      "Adds 1-25 Lightning Damage",
+      "+25 Defense",
+      "Other"
+    ],
+    "rune_weight": 14,
+    "sockets": 2
+  },
+  {
+    "name": "Pattern",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Claws"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Tal",
+      "Ort",
+      "Tir"
+    ],
+    "class_rw": "Assassin",
+    "points": null,
+    "affixes": [
+      "Tal Ort Tir",
+      "Claws (3os)",
+      "+30% Faster Block Rate",
+      "+40-80% Enhanced Damage",
+      "10% Bonus to Attack Rating",
+      "Adds 12-32 Fire Damage",
+      "Adds 1-25 Lightning Damage",
+      "+38 Poison Damage over 5 Seconds",
+      "+6 to Strength",
+      "+6 to Dexterity",
+      "All Resistances +15",
+      "+2 to Mana after each kill"
+    ],
+    "rune_weight": 19,
+    "sockets": 3
+  },
+  {
+    "name": "Flickering Flame",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Orbs"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Tir",
+      "Ral"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tir Ral",
+      "Orbs (2os)",
+      "+1-2 to Fire Skills",
+      "+10% Faster Cast Rate",
+      "Adds 3-15 Fire Damage",
+      "+3 to Warmth (Sorceress Only)",
+      "+3 to Firestorm (Sorceress Only)",
+      "+1.125 to Mana (Clvl)",
+      "Cold Resist +15%",
+      "+2 to Mana after each kill"
+    ],
+    "rune_weight": 11,
+    "sockets": 2
+  },
+  {
+    "name": "Holy Thunder",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Scepters"
+    ],
+    "clvl": 5,
+    "runes": [
+      "Eth",
+      "Ral",
+      "Ort",
+      "Tal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Eth Ral Ort Tal",
+      "Scepters (4os)",
+      "+60% Enhanced Damage",
+      "+10 to Maximum Damage",
+      "-25% Target Defense",
+      "3-15 Fire Damage",
+      "21-85 Lightning Damage",
+      "+38 Poison Damage for 5 seconds",
+      "+3 to Holy Shock (Paladin only)",
+      "Lightning Resist +60%",
+      "+5 to Maximum Lightning Resist",
+      "Level 7 Chain Lightning (60 charges)"
+    ],
+    "rune_weight": 29,
+    "sockets": 4
+  },
+  {
+    "name": "Peace",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Shael",
+      "Thul",
+      "Amn"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Shael Thul Amn",
+      "Armor (3os)",
+      "2 To Amazon Skill Levels",
+      "+20% Faster Hit Recovery",
+      "+5% Deadly Strike",
+      "+2-4 to Valkyrie (Amazon Only)",
+      "+4-5 to Evasive Tactics (Amazon Only)",
+      "+60-100% Enhanced Defense",
+      "Increased Dexterity by +3-10%",
+      "Cold Resist +10%",
+      "Thorns +14"
+    ],
+    "rune_weight": 34,
+    "sockets": 3
+  },
+  {
+    "name": "Despair",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Gloves"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Nef",
+      "Amn"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Nef Amn",
+      "Gloves (2os)",
+      "+20% Increased Attack Speed",
+      "+15-30% Enhanced Damage",
+      "+5% Life stolen per hit",
+      "+XX% Deadly Strike (Dexterity)",
+      "Increase Strength by +1-5%",
+      "Drain Life -10"
+    ],
+    "rune_weight": 15,
+    "sockets": 2
+  },
+  {
+    "name": "Envy",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Gloves"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Eth",
+      "Dol"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Eth Dol",
+      "Gloves (2os)",
+      "+20% Increased Attack Speed",
+      "+10-15% Enhanced Damage",
+      "-25% Target Defense",
+      "3-5% Life stolen per hit",
+      "3-5% Mana stolen per hit",
+      "Hit causes monsters to flee 25%",
+      "+20% Enhanced Defense",
+      "Maximum Life -5%",
+      "Maximum Mana -5%"
+    ],
+    "rune_weight": 5,
+    "sockets": 2
+  },
+  {
+    "name": "Lore",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Helms"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Ort",
+      "Sol"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ort Sol",
+      "Helms (2os)",
+      "+1 to All SKills",
+      "+10 to Energy",
+      "Lightning Resist +10%",
+      "Damage Reduced by 4",
+      "+2 to Mana after each kill",
+      "+2 to Light Radius"
+    ],
+    "rune_weight": 21,
+    "sockets": 2
+  },
+  {
+    "name": "Rhyme",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Shields"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Shael",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Shael Eth",
+      "Shields (2os)",
+      "+40% Faster Block Rate",
+      "+20% Increased Chance of Blocking",
+      "Regenerate Mana 15%",
+      "All Resistances +25%",
+      "Cannot be Frozen",
+      "+50% Increased Gold Find",
+      "+25% Increased Magic Find"
+    ],
+    "rune_weight": 18,
+    "sockets": 2
+  },
+  {
+    "name": "Holy Tears",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Shields (Necro)"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Shael",
+      "Tal"
+    ],
+    "class_rw": "Necro",
+    "points": null,
+    "affixes": [],
+    "rune_weight": 20,
+    "sockets": 2
+  },
+  {
+    "name": "Spirit",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Shields",
+      "Spell Blades"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Tal",
+      "Thul",
+      "Ort",
+      "Amn"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tal Thul Ort Amn",
+      "Shields (5os)",
+      "+2 to All Skills",
+      "+25-35% Faster Cast Rate",
+      "+55% Faster Hit Recovery",
+      "Cold Resist +20%",
+      "Lightning Resist +20%",
+      "Poison Resist +20%",
+      "Thorns: +14",
+      "+250 Defense vs. Missile",
+      "+22 to Vitality",
+      "+89-112 to Mana",
+      "+3-8 Magic Absorb",
+      "Tal Thul Ort Amn",
+      "Spell Blades - CS/DS/PB (4os)",
+      "+2 to All Skills",
+      "+25-35% Faster Cast Rate",
+      "+55% Faster Hit Recovery",
+      "Adds 2-7 Cold Damage",
+      "+38 Poison Damage over 5 seconds",
+      "5% Life stolen per hit",
+      "+250 Defense vs. Missile",
+      "+22 to Vitality",
+      "+89-112 to Mana",
+      "+3-8 Magic Absorb"
+    ],
+    "rune_weight": 37,
+    "sockets": 4
+  },
+  {
+    "name": "Edge",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Tir",
+      "Tal",
+      "Amn"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tir Tal Amn",
+      "Bows/Crossbows (3os)",
+      "Level 15 Thorns Aura When Equipped",
+      "+35% Increased Attack Speed",
+      "+320-380% Damage To Demons",
+      "+280% Damage To Undead",
+      "+38 Poison Damage over 5 seconds",
+      "5% Life Stolen Per Hit",
+      "Prevent Monster Heal",
+      "+5-10 To All Attributes",
+      "+2 To Mana After Each Kill"
+    ],
+    "rune_weight": 21,
+    "sockets": 3
+  },
+  {
+    "name": "Honor",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Amn",
+      "El",
+      "Ith",
+      "Tir",
+      "Sol"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Amn El Ith Tir Sol",
+      "Scepters (5os)",
+      "+1 to All Skills",
+      "+160% Enhanced Damage",
+      "+9 to Minimum Damage",
+      "+9 to Maximum Damage",
+      "+25% Deadly Strike",
+      "+230 to Attack Rating",
+      "5% Life Stolen per Hit",
+      "10 Replenish Life",
+      "+10 to Strength",
+      "+2 to Mana per Kill",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 33,
+    "sockets": 5
+  },
+  {
+    "name": "Strength",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Amn",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Amn Tir",
+      "Melee (2os)",
+      "+35% Enhanced Damage",
+      "+15% Chance Of Crushing Blow",
+      "5% Life Stolen Per Hit",
+      "+20 To Strength",
+      "+10 To Vitality",
+      "+2 To Mana After Each Kill"
+    ],
+    "rune_weight": 14,
+    "sockets": 2
+  },
+  {
+    "name": "Deception",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Melee",
+      "Throwing"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Amn",
+      "Shael"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Amn Shael",
+      "Melee/Throwing (2os)",
+      "+10% Increased Attack Speed",
+      "+33% Piercing Attack",
+      "+85-170% Enhanced Damage",
+      "+40-110 Attack Rating",
+      "5% Life stolen per hit",
+      "Slows target % based on Dexterity",
+      "Knockback",
+      "+1 Spell Power",
+      "Replenishes Quantity"
+    ],
+    "rune_weight": 24,
+    "sockets": 2
+  },
+  {
+    "name": "Insight",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Polearms",
+      "Staves"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Ral",
+      "Tir",
+      "Tal",
+      "Sol"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ral Tir Tal Sol",
+      "Polearms/Staves (4os)",
+      "Level 9-12 Meditation Aura When Equipped",
+      "+35% Faster Cast Rate",
+      "+200-260% Enhanced Damage (varies)",
+      "+9 To Minimum Damage",
+      "180-250% Bonus to Attack Rating",
+      "Adds 5-30 Fire Damage",
+      "+38 Poison Damage Over 5 Seconds",
+      "+1-6 To Critical Strike",
+      "+5 To All Attributes",
+      "+2 To Mana After Each Kill",
+      "23% Increased Magic Find"
+    ],
+    "rune_weight": 30,
+    "sockets": 4
+  },
+  {
+    "name": "Hatred",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Scepters"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Dol",
+      "Sol",
+      "Ral",
+      "Thul"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Dol Sol Ral Thul",
+      "Scepters (4os)",
+      "+30% Increased Attack Speed",
+      "+115% Enhanced Damage",
+      "+9 to Minimum Damage",
+      "Adds 3-15 Fire Damage",
+      "Adds 5-20 Lightning Damage",
+      "Adds 2-7 Cold Damage",
+      "+10% Chance of Crushing Blow",
+      "+0.5% Deadly Strike (Clvl)",
+      "Hit causes monster to flee 25%",
+      "Knockback"
+    ],
+    "rune_weight": 30,
+    "sockets": 4
+  },
+  {
+    "name": "King's Grace",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Scepters",
+      "Swords"
+    ],
+    "clvl": 7,
+    "runes": [
+      "Amn",
+      "Ral",
+      "Thul"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Amn Ral Thul",
+      "Scepters/Swords (3os)",
+      "+100% Enhanced Damage",
+      "+150 to Attack Rating",
+      "+100% Damage to Demons",
+      "+100 to Attack Rating against Demons",
+      "+100% Damage to Undead",
+      "+100 to Attack Rating against Undead",
+      "Adds 5-15 Fire Damage",
+      "Adds 2-7 Cold Damage",
+      "5% Life stolen per Hit"
+    ],
+    "rune_weight": 29,
+    "sockets": 3
+  },
+  {
+    "name": "Myth",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Hel",
+      "Amn",
+      "Nef"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Hel Amn Nef",
+      "Armor (3os)",
+      "10% CtC Level 1 Taunt on striking",
+      "3% CtC Level 11 Howl when struck",
+      "+2 to Barbarian skill levels",
+      "+30 Defense vs. Missile",
+      "Thorns: +4",
+      "Replenish Life +10",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 30,
+    "sockets": 3
+  },
+  {
+    "name": "Smoke",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Nef",
+      "Lum"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Nef Lum",
+      "Armor (2os)",
+      "+75% Enhanced Defense",
+      "+280 Defense vs. Missiles",
+      "All Resistances +50",
+      "+20% Faster Hit Recovery",
+      "+10 To Energy",
+      "-1 To Light Radius"
+    ],
+    "rune_weight": 21,
+    "sockets": 2
+  },
+  {
+    "name": "Darkness",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Belt"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Hel",
+      "El"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Hel El",
+      "Belt (2os)",
+      "24% Hit Recovery",
+      "+5 to Cloak of Shadows",
+      "Hit Blinds Target +2",
+      "+40-75 Defense",
+      "Magic Resist +10%",
+      "+1 to Light Radius",
+      "Requirements -15%"
+    ],
+    "rune_weight": 16,
+    "sockets": 2
+  },
+  {
+    "name": "Splendor",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Shields"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Eth",
+      "Lum"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Eth Lum",
+      "Shields (2os)",
+      "+1 to All Skills",
+      "+10% Faster Cast Rate",
+      "+20% Faster Block Rate",
+      "+60-100% Enhanced Defense",
+      "+10 to Energy",
+      "Regenerate Mana 15%",
+      "+50% Increased Gold Find",
+      "+20% Increased Magic Find",
+      "+3 to Light Radius"
+    ],
+    "rune_weight": 22,
+    "sockets": 2
+  },
+  {
+    "name": "Black",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Clubs",
+      "Hammers",
+      "Maces"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Thul",
+      "Io",
+      "Nef"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Thul Io Nef",
+      "Clubs/Hammers/Maces (3os)",
+      "+15% Increased Attack Speed",
+      "+120% Enhanced Damage",
+      "+200 to Attack Rating",
+      "Adds 2-7 Cold Damage",
+      "+20% Chance of Crushing Blow",
+      "Knockback",
+      "+10 to Vitality",
+      "Magic Damage Reduced by 2",
+      "Level 4 Corpse Explosion (12 Charges)"
+    ],
+    "rune_weight": 30,
+    "sockets": 3
+  },
+  {
+    "name": "Judgement",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Lum",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Lum Tir",
+      "Melee (2os)",
+      "+1-2 to All Skulls",
+      "+20% Faster Cast Rate",
+      "-5 to -10% to all enemy resistances",
+      "+40-110 Defense",
+      "+10 to Energy",
+      "+30-100 to Life",
+      "Regenerate Mana 20%",
+      "+2 to Mana after each kill"
+    ],
+    "rune_weight": 20,
+    "sockets": 2
+  },
+  {
+    "name": "Revenge",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Nef",
+      "Amn",
+      "Hel"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Nef Amn Hel",
+      "Melee (3os)",
+      "5% CtC Level 5 Mind Blast on striking",
+      "+10-35% Increased Attack Speed",
+      "+60-100% Enhanced Damage",
+      "Adds 35-60 Damage",
+      "5% Life stolen per hit",
+      "+3-10% Deadly Strike",
+      "+5-7 to Sacrifice (Paladin Only)",
+      "Knockback",
+      "5% Reanimate as: Skeleton",
+      "Requirements -20%"
+    ],
+    "rune_weight": 30,
+    "sockets": 3
+  },
+  {
+    "name": "Memory",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Memory"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Lum",
+      "Io",
+      "Sol",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Lum Io Sol Eth",
+      "Staves (4os)",
+      "+3 to Sorceress Skill Levels",
+      "33% Faster Cast Rate",
+      "Increase Maximum Mana 20%",
+      "+3 Energy Shield (Sorceress Only)",
+      "+2 Static Field (Sorceress Only)",
+      "+10 To Energy",
+      "+10 To Vitality",
+      "+9 To Minimum Damage",
+      "-25% Target Defense",
+      "Magic Damage Reduced By 7",
+      "+50% Enhanced Defense"
+    ],
+    "rune_weight": 50,
+    "sockets": 4
+  },
+  {
+    "name": "Desire",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Orbs"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Lum",
+      "Io"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Lum Io",
+      "Orbs (2os)",
+      "+1-2 to Sorceress Skill Levels",
+      "+XX% Faster Cast Rate (Energy)",
+      "+100-250 Defense vs. Missile",
+      "Reduce Cooldown by 5-15%",
+      "+10 to Vitality",
+      "+10 to Energy",
+      "Replenish Life +1-10",
+      "+2 to Mana (Clvl)",
+      "All Resistances +5-15"
+    ],
+    "rune_weight": 33,
+    "sockets": 2
+  },
+  {
+    "name": "White",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Wands"
+    ],
+    "clvl": 10,
+    "runes": [
+      "Dol",
+      "Io"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Dol Io",
+      "Wands (2os)",
+      "+3 to Poison and Bone Skills (Necromancer Only)",
+      "+20% Faster Cast Rate",
+      "+2 to Bone Spear (Necromancer Only)",
+      "+4 to Summon Mastery (Necromancer Only)",
+      "+3 to Bone Armor (Necromancer Only)",
+      "Hit causes monster to flee 25%",
+      "+10 to Vitality",
+      "+13 to Mana",
+      "Magic Damage reduced by 4"
+    ],
+    "rune_weight": 16,
+    "sockets": 2
+  },
+  {
+    "name": "Lionheart",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Hel",
+      "Lum",
+      "Fal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Hel Lum Fal",
+      "Armor (3os)",
+      "+20% Enhanced Damage",
+      "+25 To Strength",
+      "10 To Energy",
+      "+20 To Vitality",
+      "+15 To Dexterity",
+      "+50 To Life",
+      "All Resistances +30",
+      "Requirements -15%"
+    ],
+    "rune_weight": 51,
+    "sockets": 3
+  },
+  {
+    "name": "Blood",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Gloves"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Ko",
+      "Fal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Ko Fal",
+      "Gloves (2os)",
+      "2% CtC Level 2 Life Tap on striking",
+      "+20-25% Increased Attack Speed",
+      "+1-5% Chance to Open Wounds",
+      "+10 Strength",
+      "+10 Dexterity",
+      "Replenish Life +4-9",
+      "Life stolen per hit: +4-10"
+    ],
+    "rune_weight": 37,
+    "sockets": 2
+  },
+  {
+    "name": "Innocence",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Shields (Necro)"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Ral",
+      "Fal"
+    ],
+    "class_rw": "Necro",
+    "points": null,
+    "affixes": [],
+    "rune_weight": 27,
+    "sockets": 2
+  },
+  {
+    "name": "Harmony",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Tir",
+      "Ith",
+      "Sol",
+      "Ko"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tir Ith Sol Ko",
+      "Bows/Crossbows (4os)",
+      "Level 10 Vigor Aura When Equipped",
+      "+200-275% Enhanced Damage",
+      "+9 To Minimum Damage",
+      "+6 To Maximum Damage",
+      "Adds 55-160 Lightning Damage",
+      "Adds 55-160 Fire Damage",
+      "Adds 55-160 Cold Damage",
+      "+2-6 To Valkyrie",
+      "Regenerate Mana 20%",
+      "+2 To Mana After Each Kill",
+      "+2 To Light Radius",
+      "Level 20 Revive (25 Charges)"
+    ],
+    "rune_weight": 39,
+    "sockets": 4
+  },
+  {
+    "name": "Melody",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Shael",
+      "Ko",
+      "Nef"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Shael Ko Nef",
+      "Bows/Crossbows (3os)",
+      "+3 to Archery Skills (Amazon Only)",
+      "+10% Increased Attack Speed",
+      "+3 to Critical Strike (Amazon Only)",
+      "+3 to Huntress Haste (Amazon Only)",
+      "+3 to Slow Missiles",
+      "+50% Enhanced Damage",
+      "+300% Damage To Undead",
+      "+10 To Dexterity",
+      "3.125% Increased Gold Find (Clvl)"
+    ],
+    "rune_weight": 35,
+    "sockets": 3
+  },
+  {
+    "name": "Peril",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Sol",
+      "Shael",
+      "Ko"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Sol Shael Ko",
+      "Bows/Crossbows (3os)",
+      "+30% Increased Attack Speed",
+      "+80-115% Enhanced Damage",
+      "+9 to Minimum Damage",
+      "+1 to Attack Rating (Clvl)",
+      "+25-50% Damage to Undead",
+      "+2 to Magic Arrow",
+      "+1 to Spell Power",
+      "+10 to Dexterity"
+    ],
+    "rune_weight": 43,
+    "sockets": 3
+  },
+  {
+    "name": "Obedience",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Polearms"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Hel",
+      "Ko",
+      "Thul",
+      "Eth",
+      "Fal"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Hel Ko Thul Eth Fal",
+      "Polearms (5os)",
+      "30% CtC Level 21 Enchant on Kill",
+      "40% Faster Hit Recovery",
+      "+370% Enhanced Damage",
+      "-25% Target Defense",
+      "Adds 2-7 Cold Damage",
+      "-25% To Enemy Fire Resist",
+      "+20% Chance of Crushing Blow",
+      "+200-300 Defense",
+      "+10 To Strength",
+      "+10 To Dexterity",
+      "All Resistances +20-30",
+      "Requirements -20%"
+    ],
+    "rune_weight": 67,
+    "sockets": 5
+  },
+  {
+    "name": "Leaf",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Staves"
+    ],
+    "clvl": 12,
+    "runes": [
+      "Tir",
+      "Ral"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Tir Ral",
+      "Staves (2os)",
+      "+3 to Fire Skills",
+      "Adds 3-15 Fire Damage",
+      "+3 to Fire Ball",
+      "+3 to Warmth",
+      "+3 to Firestorm",
+      "+2 to Defense (Clvl)",
+      "Cold Resist +33%",
+      "+2 to Mana after each kill"
+    ],
+    "rune_weight": 11,
+    "sockets": 2
+  },
+  {
+    "name": "Treachery",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 15,
+    "runes": [
+      "Shael",
+      "Thul",
+      "Lem"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Shael Thul Lem",
+      "Armor (3os)",
+      "5% CtC Level 15 Fade When Struck",
+      "25% CtC level 15 Venom On Striking",
+      "+2 To Assassin Skills",
+      "+45% Increased Attack Speed",
+      "+20% Faster Hit Recovery",
+      "Cold Resist +30%",
+      "50% Extra Gold From Monsters"
+    ],
+    "rune_weight": 43,
+    "sockets": 3
+  },
+  {
+    "name": "Wealth",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 15,
+    "runes": [
+      "Lem",
+      "Ko",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Lem Ko Tir",
+      "Armor (3os)",
+      "+15-100 Defense",
+      "+10 to Dexterity",
+      "+2 to Mana after each kill",
+      "+300% Increased Gold Find",
+      "+100 Increased Magic Find",
+      "+2 to Light Radius"
+    ],
+    "rune_weight": 41,
+    "sockets": 3
+  },
+  {
+    "name": "Passion",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Any Weapon"
+    ],
+    "clvl": 15,
+    "runes": [
+      "Dol",
+      "Ort",
+      "Eld",
+      "Lem"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Dol Ort Eld Lem",
+      "Any Weapon (4os)",
+      "+25% Increased Attack Speed",
+      "+160-210% Enhanced Damage",
+      "+50-80% Bonus To Attack Rating",
+      "+75% Damage To Undead",
+      "+50 To Attack Rating Against Undead",
+      "Adds 1-50 Lightning Damage",
+      "+1 To Berserk",
+      "+1 To Zeal",
+      "Hit Blinds Target +10",
+      "Hit Causes Monster To Flee +25%",
+      "75% Extra Gold From Monsters",
+      "Level 3 Heart of Wolverine (12 Charges)"
+    ],
+    "rune_weight": 31,
+    "sockets": 4
+  },
+  {
+    "name": "Lawbringer",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Hammers",
+      "Scepters",
+      "Swords"
+    ],
+    "clvl": 15,
+    "runes": [
+      "Amn",
+      "Lem",
+      "Ko"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Amn Lem Ko",
+      "Hammers/Scepters/Swords (3os)",
+      "20% CtC Level 15 Decrepify On Striking",
+      "Level 16-18 Sanctuary Aura when equipped",
+      "-50% Target Defense",
+      "Adds 150-210 Fire Damage",
+      "Adds 130-180 Cold Damage",
+      "5% Life Stolen Per Hit",
+      "Slain Monsters Rest in Peace",
+      "+200-250 Defense vs. Missiles",
+      "+10 To Dexterity",
+      "+75% Extra Gold From Monsters"
+    ],
+    "rune_weight": 49,
+    "sockets": 3
+  },
+  {
+    "name": "Voice of Reason",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Maces",
+      "Swords"
+    ],
+    "clvl": 15,
+    "runes": [
+      "Lem",
+      "Ko",
+      "El",
+      "Eld"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Lem Ko El Eld",
+      "Maces/Swords (4os)",
+      "15% CtC Level 13 Frozen Orb on Striking",
+      "18% CtC Level 20 Ice Blast On Striking",
+      "+30 To Attack Rating",
+      "+220-350% Damage To Demons",
+      "+355-375% Damage To Undead",
+      "+50 To Attack Rating Against Undead",
+      "Adds 100-220 Cold Damage",
+      "-24% To Enemy Cold Resistance",
+      "+10 To Dexterity",
+      "Cannot Be Frozen",
+      "75% Increased Gold Find",
+      "+1 To Light Radius"
+    ],
+    "rune_weight": 41,
+    "sockets": 4
+  },
+  {
+    "name": "Enlightenment",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 16,
+    "runes": [
+      "Pul",
+      "Ral",
+      "Sol"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Pul Ral Sol",
+      "Armor (3os)",
+      "5% CtC level 15 Fire Ball on striking",
+      "5% CtC level 5 Blaze when struck",
+      "+2 to Sorceress Skill levels",
+      "+1 to Warmth",
+      "+20 Enhanced Defense",
+      "Fire Resist +10%",
+      "Damage Reduced by 4"
+    ],
+    "rune_weight": 41,
+    "sockets": 3
+  },
+  {
+    "name": "Hunger",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Helms (Druid)"
+    ],
+    "clvl": 16,
+    "runes": [
+      "Ral",
+      "Thul",
+      "Pul"
+    ],
+    "class_rw": "Druid",
+    "points": null,
+    "affixes": [],
+    "rune_weight": 39,
+    "sockets": 3
+  },
+  {
+    "name": "Bone",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 17,
+    "runes": [
+      "Sol",
+      "Um",
+      "Um"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Sol Um Um",
+      "Armor (3os)",
+      "15% CtC level 10 Bone Spear on striking",
+      "2 to Necromancer Skill Levels",
+      "+10-15% to Magic Skill Damage",
+      "100-150 to Mana",
+      "All Resistances +20",
+      "Damage Reduced by 5"
+    ],
+    "rune_weight": 56,
+    "sockets": 3
+  },
+  {
+    "name": "Duress",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 17,
+    "runes": [
+      "Shael",
+      "Um",
+      "Thul"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Shael Um Thul",
+      "Armor (3os)",
+      "+30% Faster Hit Recovery",
+      "+10-20% Enhanced Damage",
+      "Adds 37-133 Cold Damage",
+      "15% Chance of Crushing Blow",
+      "+25% Chance of Open Wounds",
+      "Cold Resist +20%",
+      "Fire Resist +10%",
+      "Lightning Resist +10%",
+      "Poison Resist + 10%"
+    ],
+    "rune_weight": 45,
+    "sockets": 3
+  },
+  {
+    "name": "Gloom",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 17,
+    "runes": [
+      "Fal",
+      "Um",
+      "Pul"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Fal Um Pul",
+      "Armor (3os)",
+      "15% CtC Level 3 Dim Vision when struck",
+      "+10% Faster Hit Recovery",
+      "+170-230% Enhanced Defense",
+      "+10 Strength",
+      "All Resistances +40%",
+      "Half Freeze Duration",
+      "5% Damage Taken goes to Mana",
+      "-3 to Light Radius"
+    ],
+    "rune_weight": 62,
+    "sockets": 3
+  },
+  {
+    "name": "Stone",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 17,
+    "runes": [
+      "Shael",
+      "Um",
+      "Pul",
+      "Lum"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Shael Um Pul Lum",
+      "Armor (4os)",
+      "+50% Faster Hit Recovery",
+      "+240-280% Enhanced Defense",
+      "+300 Defense vs. Missile",
+      "+16 To Strength",
+      "+16 To Vitality",
+      "+10 To Energy",
+      "All Resistances +15",
+      "Level 16 Molten Boulder (80 Charges)",
+      "Level 16 Clay Golem (16 Charges)"
+    ],
+    "rune_weight": 73,
+    "sockets": 4
+  },
+  {
+    "name": "Jealousy",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Claws"
+    ],
+    "clvl": 17,
+    "runes": [
+      "Um",
+      "Tal",
+      "Tal"
+    ],
+    "class_rw": "Assassin",
+    "points": null,
+    "affixes": [
+      "Um Tal Tal",
+      "Claws (3os)",
+      "+30% Increased Attack Speed",
+      "+100-150% Enhanced Damage",
+      "20% Bonus to Attack Rating",
+      "+75 Poison Damage over 5 seconds",
+      "3-5% Life stolen per hit",
+      "3-5% Mana stolen per hit",
+      "+10% Deadly Strike",
+      "+10% Chance of Open Wounds",
+      "2-6 to Dragon Claw (Assassin Only)",
+      "+5-15 to All Attributes"
+    ],
+    "rune_weight": 36,
+    "sockets": 3
+  },
+  {
+    "name": "Crescent Moon",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Maces",
+      "Polearms",
+      "Swords"
+    ],
+    "clvl": 17,
+    "runes": [
+      "Shael",
+      "Um",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": null,
+    "affixes": [
+      "Shael Um Tir",
+      "Axes/Polearms/Swords (3os)",
+      "7% CtC level 13 Static Field on striking",
+      "10% CtC level 17 Chain Lightning on striking",
+      "+10% Increased Attack Speed",
+      "+180-220% Enhanced Damage",
+      "Ignore Target's Defense",
+      "-35% to Enemy Lightning Resistance",
+      "+9-11 Magic Absorb",
+      "+2 to Mana after each kill",
+      "Level 18 Fenris (30 charges)"
+    ],
+    "rune_weight": 38,
+    "sockets": 3
+  },
+  {
+    "name": "Prudence",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 18,
+    "runes": [
+      "Mal",
+      "Tir"
+    ],
+    "class_rw": null,
+    "points": 1.0,
+    "affixes": [
+      "Mal Tir",
+      "Armor (2os)",
+      "+25% Faster Hit Recovery",
+      "+140-170% Enhanced Defense",
+      "All Resistances +25-35",
+      "Damage Reduced by 3",
+      "Magic Damage Reduced by 17",
+      "+2 To Mana After Each Kill",
+      "+1 To Light Radius",
+      "Repairs Durability 1 In 4 Seconds"
+    ],
+    "rune_weight": 26,
+    "sockets": 2
+  },
+  {
+    "name": "Rain",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 18,
+    "runes": [
+      "Ort",
+      "Mal",
+      "Ith"
+    ],
+    "class_rw": null,
+    "points": 1.0,
+    "affixes": [
+      "Ort Mal Ith",
+      "Armor (3os)",
+      "5% CtC Level 15 Cyclone Armor When Struck",
+      "+2 To Druid Skills",
+      "+2 To Fenris (Druid Skill)",
+      "Lightning Resist +10%",
+      "Magic Damage Reduced By 3",
+      "10% Damage Taken Goes to Mana"
+    ],
+    "rune_weight": 38,
+    "sockets": 3
+  },
+  {
+    "name": "Amity",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Belt"
+    ],
+    "clvl": 18,
+    "runes": [
+      "Mal",
+      "El"
+    ],
+    "class_rw": null,
+    "points": 1.0,
+    "affixes": [],
+    "rune_weight": 24,
+    "sockets": 2
+  },
+  {
+    "name": "Sanctuary",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Shields"
+    ],
+    "clvl": 18,
+    "runes": [
+      "Ko",
+      "Ko",
+      "Mal"
+    ],
+    "class_rw": null,
+    "points": 1.0,
+    "affixes": [
+      "Ko Ko Mal",
+      "Shields (3os)",
+      "+20% Faster Hit Recovery",
+      "+20% Faster Block Rate",
+      "+20% Increased Chance of Blocking",
+      "+2 to Slow Missiles",
+      "+130-160% Enhanced Defense",
+      "+250 Defense vs. Missile",
+      "+20 to Dexterity",
+      "All Resistances +50-70%",
+      "Magic Damage Reduced by 7"
+    ],
+    "rune_weight": 59,
+    "sockets": 3
+  },
+  {
+    "name": "Venom",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Any Weapon"
+    ],
+    "clvl": 18,
+    "runes": [
+      "Tal",
+      "Dol",
+      "Mal"
+    ],
+    "class_rw": null,
+    "points": 1.0,
+    "affixes": [
+      "Tal Dol Mal",
+      "Any Weapon (3os)",
+      "2% CtC level 5 Lower Resist on Striking",
+      "+50% Increased Attack Speed",
+      "+110-220% Enhanced Damage",
+      "Ignore Target's Defense",
+      "+251 Poison Damage over 5 seconds",
+      "+7% Mana stolen per hit",
+      "Prevent Monster Heal",
+      "+4-9 to Blight Strike",
+      "Hit Causes Monster to Flee 25%"
+    ],
+    "rune_weight": 30,
+    "sockets": 3
+  },
+  {
+    "name": "Oath",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Maces",
+      "Swords"
+    ],
+    "clvl": 18,
+    "runes": [
+      "Shael",
+      "Pul",
+      "Mal",
+      "Lum"
+    ],
+    "class_rw": null,
+    "points": 1.0,
+    "affixes": [
+      "Shael Pul Mal Lum",
+      "Axes/Maces/Swords (4os)",
+      "30% CtC Level 20 Bone Spirit On Striking",
+      "Indestructible",
+      "+40% Increased Attack Speed",
+      "+210-340% Enhanced Damage",
+      "+40% Damage To Demons",
+      "+50 To Attack Rating Against Demons",
+      "Prevent Monster Heal",
+      "+10 To Energy",
+      "+10-15 Magic Absorb",
+      "Level 16 Heart of Wolverine (20 Charges)",
+      "Level 17 Iron Golem (14 Charges)"
+    ],
+    "rune_weight": 74,
+    "sockets": 4
+  },
+  {
+    "name": "Chance",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Boots"
+    ],
+    "clvl": 19,
+    "runes": [
+      "Ist",
+      "Shael",
+      "Um"
+    ],
+    "class_rw": null,
+    "points": 2.0,
+    "affixes": [
+      "Ist Shael Um",
+      "Boots (3os)",
+      "30% Faster Run/Walk",
+      "Increase Energy by +1-5%",
+      "Increase Vitality by +1-5%",
+      "Increase Strength by +1-5%",
+      "Increase Dexterity by +1-5%",
+      "All Resistances +10%",
+      "+60-200% Increased Gold Find",
+      "+15-25 Increased Magic Find"
+    ],
+    "rune_weight": 59,
+    "sockets": 3
+  },
+  {
+    "name": "Nature's Kingdom",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Boots",
+      "Gloves"
+    ],
+    "clvl": 19,
+    "runes": [
+      "Hel",
+      "Ist",
+      "Lum"
+    ],
+    "class_rw": null,
+    "points": 2.0,
+    "affixes": [
+      "Hel Ist Lum",
+      "Boots (3os)",
+      "Level 5-7 Meditation Aura when equipped",
+      "+1 to Warmth",
+      "+25% Faster Cast Rate",
+      "+50-100% Enhanced Defense",
+      "2-3 Summoning Power",
+      "+10 to Energy",
+      "+10% Magic Find",
+      "Requirements -15%",
+      "Gloves",
+      "Hel Ist Lum",
+      "Gloves (3os)",
+      "Level 5-7 Meditation Aura when equipped",
+      "+1 to Warmth",
+      "+25% Faster Cast Rate",
+      "+50-100% Enhanced Defense",
+      "+2-3 Summoning Power",
+      "+10 to Energy",
+      "+10 to Magic Find",
+      "Requirements -15%"
+    ],
+    "rune_weight": 56,
+    "sockets": 3
+  },
+  {
+    "name": "Delirium",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Helms"
+    ],
+    "clvl": 19,
+    "runes": [
+      "Lem",
+      "Ist",
+      "Io"
+    ],
+    "class_rw": null,
+    "points": 2.0,
+    "affixes": [
+      "Lem Ist Io",
+      "Helms (3os)",
+      "11% CtC level 18 Confuse on striking",
+      "6% CtC level 14 Mind Blast when struck",
+      "14% CtC level 14 Terror when struck",
+      "50% CtC level 50 Delirium when struck",
+      "+2 to All Skills",
+      "+261 Defense",
+      "+10 to Vitality",
+      "+50% Increased Gold Find",
+      "+10% Increased Magic Find"
+    ],
+    "rune_weight": 60,
+    "sockets": 3
+  },
+  {
+    "name": "Elation",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Amazon Javelins"
+    ],
+    "clvl": 19,
+    "runes": [
+      "Ort",
+      "Ist",
+      "Ko"
+    ],
+    "class_rw": "Amazon",
+    "points": null,
+    "affixes": [
+      "(Amazon Only)",
+      "Ort Ist Ko",
+      "Amazon Javelin (3os)",
+      "+0-2 to Javelin Skills (Amazon Only)",
+      "+1 to Amazon Skill levels",
+      "+20% Increased Attack Speed",
+      "+115-275% Enhanced Damage",
+      "+25% Bonus to Attack Rating",
+      "Adds 1-25 Lightning Damage",
+      "+10 to Dexterity",
+      "All Resistances +5-15",
+      "+15% Increased Magic Find",
+      "Replenishes Quantity"
+    ],
+    "rune_weight": 51,
+    "sockets": 3
+  },
+  {
+    "name": "Principle",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 20,
+    "runes": [
+      "Ral",
+      "Gul",
+      "Eld"
+    ],
+    "class_rw": null,
+    "points": 4.0,
+    "affixes": [
+      "Ral Gul Eld",
+      "Armor (3os)",
+      "100% CtC Level 5 Holy Bolt on striking",
+      "2 To Paladin Skill Levels",
+      "+50% Damage to Undead",
+      "+100-150 to Life",
+      "+5 to Maximum Poison Resist",
+      "Fire Resist 10%"
+    ],
+    "rune_weight": 35,
+    "sockets": 3
+  },
+  {
+    "name": "Beauty",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Belt"
+    ],
+    "clvl": 20,
+    "runes": [
+      "Lem",
+      "Gul"
+    ],
+    "class_rw": null,
+    "points": 4.0,
+    "affixes": [
+      "Lem Gul",
+      "Belt (2os)",
+      "5% CtC level 5 Chilling Armor when struck",
+      "Level 1-12 Sanctuary Aura when equipped",
+      "+20% Faster Cast Rate",
+      "+14-24% Faster Hit Recovery",
+      "Knockback",
+      "+75-150% Enhanced Defense",
+      "+1-3 Spell Power",
+      "5% to Maximum Poison Resist",
+      "50% Increased Gold Find"
+    ],
+    "rune_weight": 45,
+    "sockets": 2
+  },
+  {
+    "name": "Kingslayer",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Swords"
+    ],
+    "clvl": 20,
+    "runes": [
+      "Mal",
+      "Um",
+      "Gul",
+      "Fal"
+    ],
+    "class_rw": null,
+    "points": 5.0,
+    "affixes": [
+      "Mal Um Gul Fal",
+      "Axes/Swords (4os)",
+      "+30% Increased Attack Speed",
+      "+230-270% Enhanced Damage",
+      "-25% Target Defense",
+      "15% Bonus To Attack Rating",
+      "+33% Chance of Crushing Blow",
+      "+35% Chance of Open Wounds",
+      "+1 To Vengeance",
+      "Prevent Monster Heal",
+      "+10 To Strength",
+      "40% Extra Gold From Monsters"
+    ],
+    "rune_weight": 89,
+    "sockets": 4
+  },
+  {
+    "name": "Fortune",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 20,
+    "runes": [
+      "Ist",
+      "Gul",
+      "Mal",
+      "Um"
+    ],
+    "class_rw": null,
+    "points": 7.0,
+    "affixes": [
+      "Ist Gul Mal Um",
+      "Bows/Crossbows (4os)",
+      "+30% Increased Attack Speed",
+      "+100% Enhanced Damage",
+      "+1.25 Enhanced Maximum Damage (Clvl)",
+      "15% Bonus to Attack Rating",
+      "+10% Chance to Open Wounds",
+      "+3 to Evasive Tactics",
+      "Increased Dexterity by 5-20%",
+      "50-200% Increased Gold Find",
+      "1% Increased Magic Find (Clvl)"
+    ],
+    "rune_weight": 94,
+    "sockets": 4
+  },
+  {
+    "name": "Rift",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Polearms",
+      "Scepters"
+    ],
+    "clvl": 20,
+    "runes": [
+      "Hel",
+      "Ko",
+      "Lem",
+      "Gul"
+    ],
+    "class_rw": null,
+    "points": 4.0,
+    "affixes": [
+      "Hel Ko Lem Gul",
+      "Polearms/Scepters (4os)",
+      "20% CtC Level 16 Tornado on striking",
+      "16% CtC Level 21 Frozen Orb on Attack",
+      "15% Bonus To Attack Rating",
+      "Adds 160-250 Magic Damage",
+      "Adds 60-180 Fire Damage",
+      "+5-10 To All Stats",
+      "+10 To Dexterity",
+      "38% Damage Taken Goes To Mana",
+      "75% Extra Gold From Monsters",
+      "Requirements -20%"
+    ],
+    "rune_weight": 78,
+    "sockets": 4
+  },
+  {
+    "name": "Dread",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Throwing"
+    ],
+    "clvl": 20,
+    "runes": [
+      "Um",
+      "Gul",
+      "Nef",
+      "Ko"
+    ],
+    "class_rw": null,
+    "points": 4.0,
+    "affixes": [
+      "Um Gul Nef Ko",
+      "Throwing (4os)",
+      "5% CtC Level 5 Howl when struck",
+      "+30% Increased Attack Speed",
+      "+110-220% Enhanced Damage",
+      "15% Bonus to Attack Rating",
+      "+75-225 to Attack Rating",
+      "+10% Chance of Crushing Blow",
+      "+5-6 to Throwing Mastery (Barbarian Only)",
+      "Knockback",
+      "+10 to Dexterity",
+      "Replenishes Quantity"
+    ],
+    "rune_weight": 69,
+    "sockets": 4
+  },
+  {
+    "name": "Silence",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Any Weapon"
+    ],
+    "clvl": 25,
+    "runes": [
+      "Dol",
+      "Eld",
+      "Hel",
+      "Ist",
+      "Tir",
+      "Vex"
+    ],
+    "class_rw": null,
+    "points": 10.0,
+    "affixes": [
+      "Dol Eld Hel Ist Tir Vex",
+      "Any Weapon (5os)",
+      "+2 to All Skills",
+      "+20% Increased Attack Speed",
+      "+200% Enhanced Damage",
+      "+75% Damage to Undead",
+      "+50 to Attack Rating against Undead",
+      "4% Life stolen per hit",
+      "5% Mana stolen per hit",
+      "Hit Blinds Target +33",
+      "Hit Causes Monster to Flee 25%",
+      "All Resistances +75%",
+      "+2 to Mana after each kill",
+      "+15 Increased Magic Find",
+      "Requirements -20%"
+    ],
+    "rune_weight": 70,
+    "sockets": 6
+  },
+  {
+    "name": "Death",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Swords"
+    ],
+    "clvl": 25,
+    "runes": [
+      "Hel",
+      "El",
+      "Vex",
+      "Ort",
+      "Gul"
+    ],
+    "class_rw": null,
+    "points": 12.0,
+    "affixes": [
+      "Hel El Vex Ort Gul",
+      "Axes/Swords (5os)",
+      "100% CtC level 44 Chain Lightning when you die",
+      "25% CtC level 18 Glacial Spike on striking",
+      "+300-385% Enhanced Damage",
+      "+15% Bonus to Attack Rating",
+      "+30 to Attack Rating",
+      "Adds 1-25 Lightning Damage",
+      "5% Mana stolen per hit",
+      "+50% Chance of Crushing Blow",
+      "+0.5% Deadly Strike (Clvl)",
+      "+1 to Light Radius",
+      "Level 22 Blood Golem (15 Charges)",
+      "Requirements -20%"
+    ],
+    "rune_weight": 76,
+    "sockets": 5
+  },
+  {
+    "name": "Heart of the Oak",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Maces ",
+      "Scepters",
+      "Staves"
+    ],
+    "clvl": 25,
+    "runes": [
+      "Ko",
+      "Vex",
+      "Pul",
+      "Thul"
+    ],
+    "class_rw": null,
+    "points": 8.0,
+    "affixes": [
+      "Ko Vex Pul Thul",
+      "Maces/Scepters/Staves (4os)",
+      "+3 To All Skills",
+      "+40% Faster Cast Rate",
+      "+50 To Attack Rating Against Demons",
+      "Adds 3-14 Cold Damage",
+      "5% Mana Stolen Per Hit",
+      "+10 To Dexterity",
+      "Replenish Life +20",
+      "Maximum Mana +15%",
+      "All Resistances +30-40%",
+      "Level 4 Oak Sage (25 Charges)",
+      "Level 14 Raven (60 Charges)"
+    ],
+    "rune_weight": 75,
+    "sockets": 4
+  },
+  {
+    "name": "Exile",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Shields (Paladin)"
+    ],
+    "clvl": 27,
+    "runes": [
+      "Vex",
+      "Ohm",
+      "Ist",
+      "Dol"
+    ],
+    "class_rw": "Paladin",
+    "points": 26.0,
+    "affixes": [],
+    "rune_weight": 77,
+    "sockets": 4
+  },
+  {
+    "name": "Call To Arms",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Any Weapon"
+    ],
+    "clvl": 27,
+    "runes": [
+      "Amn",
+      "Ral",
+      "Mal",
+      "Ist",
+      "Ohm"
+    ],
+    "class_rw": null,
+    "points": 19.0,
+    "affixes": [],
+    "rune_weight": 93,
+    "sockets": 5
+  },
+  {
+    "name": "Chaos",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Claws"
+    ],
+    "clvl": 27,
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Um"
+    ],
+    "class_rw": "Assassin",
+    "points": 16.0,
+    "affixes": [
+      "Fal Ohm Um",
+      "Claws (3os)",
+      "9% CtC level 11 Frozen Orb on striking",
+      "11% CtC level 9 Charged Bolt on striking",
+      "+35% Increased Attack Speed",
+      "+275-325% Enhanced Damage",
+      "Adds 216-471 Magic Damage",
+      "+1 to Whirlwind",
+      "+10 to Strength",
+      "+15 Life after each Demon Kill"
+    ],
+    "rune_weight": 68,
+    "sockets": 3
+  },
+  {
+    "name": "Fortitude",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor",
+      "Any Weapon"
+    ],
+    "clvl": 29,
+    "runes": [
+      "El",
+      "Sol",
+      "Dol",
+      "Lo"
+    ],
+    "class_rw": null,
+    "points": 32.0,
+    "affixes": [
+      "El Sol Dol Lo",
+      "Armor (4os)",
+      "20% CtC Level 15 Chilling Armor when struck",
+      "+25% Faster Cast Rate",
+      "+300% Enhanced Damage",
+      "+200% Enhanced Defense",
+      "+10 Defense",
+      "+1 to Life (Clvl)",
+      "Replenish Life +3",
+      "+5% to Maximum Lightning Resist",
+      "All Resistances +25-30%",
+      "Damage Reduced by 4",
+      "12% Damage Taken goes to Mana",
+      "+1 to Light Radius",
+      "El Sol Dol Lo",
+      "Any Weapon (4os)",
+      "20% CtC Level 15 Chilling Armor when struck",
+      "+25% Faster Cast Rate",
+      "+300% Enhanced Damage",
+      "+200% Enhanced Defense",
+      "+30 to Attack Rating",
+      "+1 to Life (Clvl)",
+      "Replenish Life +3",
+      "Hit causes Monsters to flee 25%",
+      "+10% Deadly Strike",
+      "All Resistances +25-30%",
+      "+9 to Minimum Damage",
+      "12% Damage Taken goes to Mana",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 41,
+    "sockets": 4
+  },
+  {
+    "name": "Grief",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Swords"
+    ],
+    "clvl": 29,
+    "runes": [
+      "Eth",
+      "Tir",
+      "Lo",
+      "Mal",
+      "Ral"
+    ],
+    "class_rw": null,
+    "points": 33.0,
+    "affixes": [
+      "Eth Tir Lo Mal Ral",
+      "Axes/Swords (5os)",
+      "35% CtC Level 15 Venom On Striking",
+      "+30-40% Increased Attack Speed",
+      "Damage +340-400",
+      "Ignore Target's Defense",
+      "-25% Target Defense",
+      "+1.875% Damage To Demons (Clvl)",
+      "Adds 3-15 Fire Damage",
+      "-20 to -25% to Enemy Poison Resist",
+      "+10% Deadly Strike",
+      "Prevent Monster Heal",
+      "+2 To Mana After Each Kill",
+      "+10-15 Life After Each Kill"
+    ],
+    "rune_weight": 67,
+    "sockets": 5
+  },
+  {
+    "name": "Knight's Vigil",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Scepters",
+      "Swords"
+    ],
+    "clvl": 29,
+    "runes": [
+      "Um",
+      "Lo",
+      "Ko",
+      "Fal"
+    ],
+    "class_rw": null,
+    "points": 32.0,
+    "affixes": [
+      "Um Lo Ko Fal",
+      "Scepters/Swords (4os)",
+      "Level 5-15 Redemption Auro when equipped",
+      "+1-3 to Combat Skills (Paladin Only)",
+      "+1-3 to Paladin Skills",
+      "+20-40% Increased Attack Speed",
+      "+150-225% Enhanced Damage",
+      "+8 to Attack Rating (Clvl)",
+      "+10% Chance to Open Wounds",
+      "+10 to Strength",
+      "+10 To Dexterity"
+    ],
+    "rune_weight": 87,
+    "sockets": 4
+  },
+  {
+    "name": "Bramble",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 31,
+    "runes": [
+      "Ral",
+      "Ohm",
+      "Sur",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": 80.0,
+    "affixes": [
+      "Ral Ohm Sur Eth",
+      "Armor (3os)",
+      "Level 15-21 Thorns Aura when equipped",
+      "+50% Faster Hit Recovery",
+      "+25-50% Poison Skill Damage",
+      "+300 Defense",
+      "Maximum Mana +5%",
+      "Regenerate Mana 10%",
+      "+5 to Maximum Cold Resist",
+      "Fire Resist +10%",
+      "Poison Resist +100%",
+      "+13 Life after each kill",
+      "Level 13 Spirit of Barbs (33/33 Charges)"
+    ],
+    "rune_weight": 69,
+    "sockets": 4
+  },
+  {
+    "name": "Dragon",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor",
+      "Shields"
+    ],
+    "clvl": 31,
+    "runes": [
+      "Sur",
+      "Lo",
+      "Sur"
+    ],
+    "class_rw": null,
+    "points": 160.0,
+    "affixes": [
+      "Sur Lo Sur",
+      "Armor (3os)",
+      "20% CtC level 18 Venom when struck",
+      "Level 14 Holy Fire Aura when equipped",
+      "+5-12 Hydra",
+      "+360 Defense",
+      "+230 Defense vs. Missile",
+      "+3-5 to all Attributes",
+      "+0.275 to Strength (Clvl)",
+      "Maximum Mana 5%",
+      "+5% to Maximum Lightning Resist",
+      "Damage Reduced by 4",
+      "Sur Lo Sol",
+      "Shields (3os)",
+      "20% Ctc level 18 Venom when Struck",
+      "Level 14 Holy Fire Aura when equipped",
+      "+5-12 to Hydra",
+      "+360 Defense",
+      "+3-5 to all Attributes",
+      "+0.375 to Strength (Clvl)",
+      "+50 to Mana",
+      "+5% to Maximum Lightning Resist",
+      "Damage Reduced by 7"
+    ],
+    "rune_weight": 86,
+    "sockets": 3
+  },
+  {
+    "name": "Wind",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 31,
+    "runes": [
+      "Sur",
+      "El"
+    ],
+    "class_rw": null,
+    "points": 64.0,
+    "affixes": [
+      "Sur Eld",
+      "Melee (2os)",
+      "10% CtC Level 9 Tornado On Striking",
+      "+20% Faster Run/Walk",
+      "+40% Increased Attack Speed",
+      "+15% Faster Hit Recovery",
+      "+120-160% Enhanced Damage",
+      "-50% Target Defense",
+      "+30 To Attack Rating",
+      "Hit Blinds Target",
+      "+1 To Light Radius",
+      "Level 10 Hurricane (5 Charges)"
+    ],
+    "rune_weight": 30,
+    "sockets": 2
+  },
+  {
+    "name": "Chains of Honor",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 35,
+    "runes": [
+      "Dol",
+      "Um",
+      "Ber",
+      "Ist"
+    ],
+    "class_rw": null,
+    "points": 130.0,
+    "affixes": [
+      "Dol Um Ber Ist",
+      "Armor (4os)",
+      "+2 to All Skills",
+      "+200 Damage to Demons",
+      "+100 Damage to Undead",
+      "8% Life Stolen per hit",
+      "+70% Enhanced Defense",
+      "+20 to Strength",
+      "Replenish Life +3",
+      "All Resistances +60",
+      "Damage Reduced by 8%",
+      "10% Increased Magic Find"
+    ],
+    "rune_weight": 76,
+    "sockets": 4
+  },
+  {
+    "name": "Beast",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Hammers",
+      "Scepters"
+    ],
+    "clvl": 35,
+    "runes": [
+      "Ber",
+      "Tir",
+      "Um",
+      "Mal",
+      "Lum"
+    ],
+    "class_rw": null,
+    "points": 129.0,
+    "affixes": [
+      "Ber Tir Um Mal Lum",
+      "Axes/Hammers/Scepters (5os)",
+      "Level 9 Fanaticism Aura When Equipped",
+      "+40% Increased Attack Speed",
+      "+240-270% Enhanced Damage",
+      "+10% Chance of Crushing Blow",
+      "+10% Chance of Open Wounds",
+      "+3 To Frost Bite",
+      "+3 To Werebear",
+      "Prevent Monster Heal",
+      "+25-40 To Strength",
+      "+10 To Energy",
+      "+2 To Mana After Each Kill",
+      "Level 13 Summon Grizzly (5 Charges)"
+    ],
+    "rune_weight": 95,
+    "sockets": 5
+  },
+  {
+    "name": "Wrath",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 35,
+    "runes": [
+      "Pul",
+      "Lum",
+      "Ber",
+      "Mal"
+    ],
+    "class_rw": null,
+    "points": 129.0,
+    "affixes": [
+      "Pul Lum Ber Mal",
+      "Bows/Crossbows (4os)",
+      "30% CtC Level 1 Decrepify on striking",
+      "10% CtC Level 10 Life Tap on striking",
+      "+340% Damage To Demons",
+      "+50 To Attack Rating against Demons",
+      "+250-300% Damage To Undead",
+      "Adds 85-120 Magic Damage",
+      "Adds 41-240 Lightning Damage",
+      "+10% Chance of Crushing Blow",
+      "Prevent Monster Heal",
+      "+10 To Energy",
+      "Cannot Be Frozen"
+    ],
+    "rune_weight": 91,
+    "sockets": 4
+  },
+  {
+    "name": "Eternity",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 35,
+    "runes": [
+      "Amn",
+      "Ber",
+      "Ist",
+      "Sol",
+      "Sur"
+    ],
+    "class_rw": null,
+    "points": 194.0,
+    "affixes": [
+      "Amn Ber Ist Sol Sur",
+      "Melee (5os)",
+      "Indestructible",
+      "+260-310% Enhanced Damage",
+      "+9 To Minimum Damage",
+      "5% Life Stolen Per Hit",
+      "+10% Chance of Crushing Blow",
+      "Hit Blinds Target",
+      "Slows Target By 33%",
+      "Regenerate Mana 16%",
+      "Replenish Life +16",
+      "Cannot Be Frozen",
+      "15% Better Chance Of Getting Magic Items",
+      "Level 8 Revive (88 Charges)"
+    ],
+    "rune_weight": 106,
+    "sockets": 5
+  },
+  {
+    "name": "Glory",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Melee",
+      "Throwing"
+    ],
+    "clvl": 35,
+    "runes": [
+      "Shael",
+      "Ber",
+      "Vex"
+    ],
+    "class_rw": null,
+    "points": 136.0,
+    "affixes": [
+      "Shael Ber Vex",
+      "Melee/Throwing (3os)",
+      "+30% Increased Attack Speed",
+      "+225-310% Enhanced Damage",
+      "+20 to Attack Rating (Clvl)",
+      "5% Mana stolen per hit",
+      "+10% Chance of Crushing Blow",
+      "+XX% Piercing Attacking (Dexterity)",
+      "+5 to Throwing Mastery",
+      "+2-3 Spell Power"
+    ],
+    "rune_weight": 69,
+    "sockets": 3
+  },
+  {
+    "name": "Infinity",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Polearms"
+    ],
+    "clvl": 35,
+    "runes": [
+      "Ber",
+      "Mal",
+      "Ber",
+      "Ist"
+    ],
+    "class_rw": null,
+    "points": 259.0,
+    "affixes": [
+      "Ber Mal Ber Ist",
+      "Polearms (4os)",
+      "50% CtC Level 20 Chain Lightning on kill",
+      "Level 7-9 Conviction Aura When Equipped",
+      "+35% Faster Run/Walk",
+      "+255-325% Enhanced Damage",
+      "-45 to -55% Enemy Lightning Resist",
+      "+20% Chance of Crushing Blow",
+      "Prevent Monster Heal",
+      "1 to Life (Based on Character Level)",
+      "15% Better Chance of Getting Magic Items",
+      "+3 to Cyclone Armor"
+    ],
+    "rune_weight": 107,
+    "sockets": 4
+  },
+  {
+    "name": "Enigma",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Armor"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Jah",
+      "Ith",
+      "Ber"
+    ],
+    "class_rw": null,
+    "points": 384.0,
+    "affixes": [
+      "Jah Ith Ber",
+      "Armor (3os)",
+      "+2 to All Skills",
+      "+45% Faster Run/Walk",
+      "+1 to Blink Strike",
+      "+750-775 Defense",
+      "0.75 to Strength (Clvl)",
+      "Maximum Life 2%",
+      "Damage Reduced by 8%",
+      "+14 Life after each kill",
+      "10% Damage taken goes to Mana",
+      "+1% Increased Magic Find (Clvl)"
+    ],
+    "rune_weight": 67,
+    "sockets": 3
+  },
+  {
+    "name": "Knowledge",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Circlets"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Lo",
+      "Jah",
+      "Ral"
+    ],
+    "class_rw": null,
+    "points": 288.0,
+    "affixes": [
+      "Lo Jah Ral",
+      "Circlets (3os)",
+      "Level 5-12 Sanctuary Aura when equipped",
+      "+1-3 to All Skills",
+      "+20-30% Faster Cast Rate",
+      "Maximum Life +5-15%",
+      "Maximum Mana +5-15%",
+      "Regenerate Mana 20-30%",
+      "+5% to Maximum Lightning Resist",
+      "Fire Resist +10%",
+      "Damage Reduced by 15-25%",
+      "Life gained when hit: +5-10%",
+      "Mana gained when hit: +5-10%",
+      "0.5% Increased Magic Find (Clvl)"
+    ],
+    "rune_weight": 67,
+    "sockets": 3
+  },
+  {
+    "name": "Dream",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Helms",
+      "Shields"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Io",
+      "Jah",
+      "Pul"
+    ],
+    "class_rw": null,
+    "points": 256.0,
+    "affixes": [
+      "Io Jah Pul",
+      "Helms (3os)",
+      "10% CtC level 15 Confuse when struck",
+      "Level 15 Holy Shock Aura when equipped",
+      "+20-30% Faster Hit Recovery",
+      "+20% Enhanced Defense",
+      "+150-220 Defense",
+      "+10 to Vitality",
+      "Maximum Life +2%",
+      "+0.6125 to Mana (Clvl)",
+      "All Resistances +5-20%",
+      "12-25% Increased Magic Find",
+      "\"Hunger",
+      "(Druid Only)\"",
+      "Ral Thul Pul",
+      "Druid Helms (3os)",
+      "20% Increased Attack Speed",
+      "10-20% Bonus to Attack Rating",
+      "5% Life stolen per hit",
+      "5% Mana stolen per hit",
+      "+4-7 to Feral Rage (Druid Only)",
+      "+1-4 to Werewolf (Druid Only)",
+      "+120-145% Enhanced Defense",
+      "Increase Strength by 5%",
+      "Cold Resist +10%",
+      "Fire Resist +10%",
+      "Io Jah Pul",
+      "Shields (3os)",
+      "10% CtC level 15 Confuse when struck",
+      "Level 15 Holy Shock Aura when equipped",
+      "+20-30% Faster Hit Recovery",
+      "+30% Enhanced Defense",
+      "+150-220 Defense",
+      "+10 to Vitality",
+      "+50 to Life",
+      "+0.6125 to Mana (Clvl)",
+      "All Resistances +5-20%",
+      "12-25% Increased Magic Find",
+      "\"Exile",
+      "(Paladin Only)\"",
+      "Vex Ohm Ist Dol",
+      "Shields (4os)",
+      "15% CtC level 5 Life Tap on striking",
+      "Level 13-16 Defiance Aura when equipped",
+      "+2 to Offensive Advantage (Paladin Only)",
+      "+30% Faster Block Rate",
+      "Freezes Target",
+      "220-260% Enhanced Defense",
+      "Replenish Life +7",
+      "+25% Increased Magic Find",
+      "Repairs 1 Durability in 4 seconds"
+    ],
+    "rune_weight": 68,
+    "sockets": 3
+  },
+  {
+    "name": "Phoenix",
+    "rmd": null,
+    "aw": "A",
+    "item_types": [
+      "Shields",
+      "Any Weapon"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Vex",
+      "Vex",
+      "Lo",
+      "Jah"
+    ],
+    "class_rw": null,
+    "points": 304.0,
+    "affixes": [
+      "Vex Vex Lo Jah",
+      "Shields (4os)",
+      "15% CtC level 6 Ignite on striking",
+      "100% CtC level 8 Blaze when level-up",
+      "Level 10-15 Redemption Aura when equipped",
+      "+350-400% Enhanced Damage",
+      "+50 to Life",
+      "+10% to Maximum Fire Resist",
+      "+5% to Maximum Lightning Resist",
+      "-28% to enemy Fire Resistance",
+      "350-400 Defense vs. Missile",
+      "Fire Absorb +15-21%",
+      "Vex Vex Lo Jah",
+      "Any Weapon (4os)",
+      "15% CtC level 6 Ignite on striking",
+      "100% CtC level 8 Blaze when level-up",
+      "+350-400% Enhanced Damage",
+      "Ignore Target's Defense",
+      "10% Mana stolen per hit",
+      "+10% Deadly Strike",
+      "-28% to enemy Fire Resistance",
+      "350-400 Defense vs. Missile"
+    ],
+    "rune_weight": 111,
+    "sockets": 4
+  },
+  {
+    "name": "Famine",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Hammers"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Fal",
+      "Ohm",
+      "Ort",
+      "Jah"
+    ],
+    "class_rw": null,
+    "points": 272.0,
+    "affixes": [
+      "Fal Ohm Ort Jah",
+      "Axes/Hammers (4os)",
+      "+30% Increased Attack Speed",
+      "+305-355% Enhanced Damage",
+      "Ignore Target's Defense",
+      "Adds 180-200 Magic Damage",
+      "Adds 50-200 Fire Damage",
+      "Adds 51-250 Lightning Damage",
+      "Adds 50-200 Cold Damage",
+      "12% Life Stolen Per Hit",
+      "Prevent Monster Heal",
+      "+10 To Strength"
+    ],
+    "rune_weight": 86,
+    "sockets": 4
+  },
+  {
+    "name": "Last Wish",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Hammers",
+      "Swords"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Jah",
+      "Mal",
+      "Jah",
+      "Sur",
+      "Jah",
+      "Ber"
+    ],
+    "class_rw": null,
+    "points": 961.0,
+    "affixes": [
+      "Jah Mal Jah Sur Jah Ber",
+      "Axes/Hammers/Swords (6os)",
+      "6% CtC Level 11 Fade When Struck",
+      "10% CtC Level 18 Life Tap On Striking",
+      "20% CtC Level 20 Charged Bolt On Attack",
+      "Level 17 Might Aura When Equipped",
+      "+330-375% Enhanced Damage",
+      "Ignore Target's Defense",
+      "+30-60% Chance of Crushing Blow",
+      "Prevent Monster Heal",
+      "Hit Blinds Target +1",
+      "+0.5% Increased Magic Find (Clvl)"
+    ],
+    "rune_weight": 175,
+    "sockets": 6
+  },
+  {
+    "name": "Brand",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Jah",
+      "Lo",
+      "Mal",
+      "Gul"
+    ],
+    "class_rw": null,
+    "points": 293.0,
+    "affixes": [
+      "Jah Lo Mal Gul",
+      "Bows/Crossbows (4os)",
+      "35% CtC Level 14 Amplify Damage when struck",
+      "100% CtC Level 18 Bone Spear on striking",
+      "+260-340% Enhanced Damage",
+      "Ignores Target's Defense",
+      "10% Bonus to Attack Rating",
+      "+280-330% Damage To Demons",
+      "+10% Deadly Strike",
+      "Prevent Monster Heal",
+      "Knockback",
+      "Fires Explosive Arrows"
+    ],
+    "rune_weight": 107,
+    "sockets": 4
+  },
+  {
+    "name": "Faith",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Ohm",
+      "Jah",
+      "Lem",
+      "Eld"
+    ],
+    "class_rw": null,
+    "points": 272.0,
+    "affixes": [
+      "Ohm Jah Lem Eld",
+      "Bows/Crossbows (4os)",
+      "Level 12-15 Fanaticism Aura When Equipped",
+      "+1-2 To All Skills",
+      "+315% Enhanced Damage",
+      "Ignore Target's Defense",
+      "300% Bonus To Attack Rating",
+      "+75% Damage To Undead",
+      "+50 To Attack Rating Against Undead",
+      "+120 Fire Damage",
+      "All Resistances +15",
+      "10% Reanimate As: Returned",
+      "75% Extra Gold From Monsters"
+    ],
+    "rune_weight": 80,
+    "sockets": 4
+  },
+  {
+    "name": "Ice",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "Crossbows"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Amn",
+      "Shael",
+      "Jah",
+      "Lo"
+    ],
+    "class_rw": null,
+    "points": 288.0,
+    "affixes": [
+      "Amn Shael Jah Lo",
+      "Bows/Crossbows (4os)",
+      "100% CtC Level 40 Blizzard when you level-up",
+      "25% CtC Level 22 Ice Bolt on striking",
+      "Level 18 Holy Freeze aura when equipped",
+      "+10% Increased Attack Speed",
+      "+140-210% Enhanced Damage",
+      "Ignore Target's Defense",
+      "+25-30% To Cold Skill Damage",
+      "-20% To Enemy Cold Resist",
+      "5% Life Stolen Per Hit",
+      "+10% Deadly Strike",
+      "3.125% Increased Gold Find (Clvl)"
+    ],
+    "rune_weight": 83,
+    "sockets": 4
+  },
+  {
+    "name": "Fury",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Melee"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Jah",
+      "Gul",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": 260.0,
+    "affixes": [
+      "Jah Gul Eth",
+      "Melee (3os)",
+      "+40% Increased Attack Speed",
+      "+209% Enhanced Damage",
+      "Ignore Target's Defense",
+      "-25% Target Defense",
+      "15% Bonus to Attack Rating",
+      "6% Life stolen per hit",
+      "+33% Deadly Strike",
+      "+33% Chance of Open Wounds",
+      "Prevent Monster Heal",
+      "+5 to Frenzy (Barbarian)"
+    ],
+    "rune_weight": 61,
+    "sockets": 3
+  },
+  {
+    "name": "Destruction",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Polearms",
+      "Swords"
+    ],
+    "clvl": 39,
+    "runes": [
+      "Vex",
+      "Lo",
+      "Ber",
+      "Jah",
+      "Ko"
+    ],
+    "class_rw": null,
+    "points": 424.0,
+    "affixes": [
+      "Vex Lo Ber Jah Ko",
+      "Polearms/Swords (5os)",
+      "23% CtC level 12 Volcano on striking",
+      "5% CtC level 23 Molten Boulder on striking",
+      "100% CtC level 45 Meteor when you die",
+      "15% CtC level 22 Nova on attack",
+      "Adds 100-180 Magic Damage",
+      "5% Mana stolen per hit",
+      "+10% Chance of Crushing Blow",
+      "+10% Deadly Strike",
+      "Prevent Monster Heal",
+      "+10 to Dexterity"
+    ],
+    "rune_weight": 133,
+    "sockets": 5
+  },
+  {
+    "name": "Armageddon",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Boots"
+    ],
+    "clvl": 43,
+    "runes": [
+      "Shael",
+      "Cham",
+      "Hel"
+    ],
+    "class_rw": null,
+    "points": 512.0,
+    "affixes": [
+      "Shael Cham Hel",
+      "Boots (3os)",
+      "1% CtC Level 5 Overheat on striking",
+      "5% CtC level 24 Blaze when struck",
+      "+20% Faster Run/Walk",
+      "+34% Faster Hit Recovery",
+      "+5-10% Crushing Blow",
+      "+120-210% Enhanced Defense",
+      "+30-55% Fire Resistance",
+      "Cannot Be Frozen",
+      "Requirements -15%"
+    ],
+    "rune_weight": 60,
+    "sockets": 3
+  },
+  {
+    "name": "Hand of Justice",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Any Weapon"
+    ],
+    "clvl": 43,
+    "runes": [
+      "Sur",
+      "Cham",
+      "Amn",
+      "Lo"
+    ],
+    "class_rw": null,
+    "points": 608.0,
+    "affixes": [
+      "Sur Cham Amn Lo",
+      "Any Weapon (4os)",
+      "100% CtC Level 36 Blaze When You Level-Up",
+      "100% CtC Level 48 Meteor When You Die",
+      "Level 16 Holy Fire Aura When Equipped",
+      "+33% Increased Attack Speed",
+      "+280-330% Enhanced Damage",
+      "Ignore Target's Defense",
+      "5% Life Stolen Per Hit",
+      "-20% To Enemy Fire Resist",
+      "+10% Deadly Strike",
+      "Hit Blinds Target",
+      "Freezes Target +3"
+    ],
+    "rune_weight": 100,
+    "sockets": 4
+  },
+  {
+    "name": "Plague",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Any Weapon"
+    ],
+    "clvl": 43,
+    "runes": [
+      "Cham",
+      "Fal",
+      "Um"
+    ],
+    "class_rw": null,
+    "points": 512.0,
+    "affixes": [
+      "Cham Fal Um",
+      "Any Weapon (3os)",
+      "20% CtC level 12 Lower Resist when struck",
+      "25% CtCt level 15 Poison Nova on striking",
+      "Level 13-17 Cleansing Aura When Equipped",
+      "+1-2 All Skills",
+      "+260-380% Damage to Demons",
+      "-23% to Enemy Poison Resistance",
+      "0.375% Deadly Strike (Clvl)",
+      "+10% Chance of Open Wounds",
+      "Freezes Target +3"
+    ],
+    "rune_weight": 73,
+    "sockets": 3
+  },
+  {
+    "name": "Doom",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Axes",
+      "Hammers",
+      "Polearms"
+    ],
+    "clvl": 43,
+    "runes": [
+      "Hel",
+      "Ohm",
+      "Um",
+      "Lo",
+      "Cham"
+    ],
+    "class_rw": null,
+    "points": 560.0,
+    "affixes": [
+      "Hel Ohm Um Lo Cham",
+      "Axes/Hammers/Polearms (5os)",
+      "5% CtC Level 18 Volcano On Striking",
+      "Level 12 Holy Freeze Aura When Equipped",
+      "+2 To All Skills",
+      "+45% Increased Attack Speed",
+      "+280-320% Enhanced Damage",
+      "-40 to -60% Enemy Cold Resist",
+      "+10% Deadly Strike",
+      "+10% Chance of Open Wounds",
+      "Prevent Monster Heal",
+      "Freezes Target +2",
+      "Requirements -20%"
+    ],
+    "rune_weight": 124,
+    "sockets": 5
+  },
+  {
+    "name": "Pride",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Polearms"
+    ],
+    "clvl": 43,
+    "runes": [
+      "Cham",
+      "Sur",
+      "Io",
+      "Lo"
+    ],
+    "class_rw": null,
+    "points": 608.0,
+    "affixes": [
+      "Cham Sur Io Lo",
+      "Polearms (4os)",
+      "25% CtC Level 17 Fire Wall when struck",
+      "Level 16-20 Concentration Aura when equipped",
+      "+260-300% Bonus To Attack Rating",
+      "+1% Damage To Demons (Clvl)",
+      "Adds 50-280 Lightning Damage",
+      "+10% Deadly Strike",
+      "Hit Blinds Target",
+      "Freezes Target +2",
+      "+10 To Vitality",
+      "Replenish Life +8",
+      "1.875% Increased Gold Find (Clvl)"
+    ],
+    "rune_weight": 105,
+    "sockets": 4
+  },
+  {
+    "name": "Heaven's Will",
+    "rmd": "RMD",
+    "aw": "A",
+    "item_types": [
+      "Shields",
+      "Scepters"
+    ],
+    "clvl": 50,
+    "runes": [
+      "Jah",
+      "Zod",
+      "El",
+      "Sol"
+    ],
+    "class_rw": null,
+    "points": 1280.0,
+    "affixes": [
+      "Jah Zod El Sol",
+      "Shields (4os)",
+      "Indestructible",
+      "+3 to Combat Skills (Paladin Only)",
+      "+20-40% Faster Cast Rate",
+      "Damage reduced by 7",
+      "+50 to life",
+      "+15 Defense",
+      "+35-55% to Magic Skill Damage",
+      "+4-7 to Fist of the Heavens (Paladin Only)",
+      "Maximum Life +3-25%",
+      "Regenerate Mana 20-40%",
+      "Magic Absorb +6-12%",
+      "Damage Reduced by 20-25%",
+      "+1 to Light Radius",
+      "\"Holy Tears",
+      "(Necromancer Only)\"",
+      "Shael Tal",
+      "Necro Shields (2os)",
+      "+1-2 to Summoning Skills (Necro Only)",
+      "+20% Faster Cast Rate",
+      "+40% Faster Block Rate",
+      "+20% Increased Chance of Blocking",
+      "+2-4 to Raise Skeleton (Necro Only)",
+      "+1-3 to Bone Armor (Necro Only)",
+      "+30-70% Enhanced Defense",
+      "Cold Resist 5-15%",
+      "Fire Resist 5-15%",
+      "Lightning Resist 5-15%",
+      "Poison Resist 5-15%",
+      "Jah Zod El Sol",
+      "Scepters/Shields(4os)",
+      "Indestructible",
+      "+3-4 to Combat Skills (Paladin Only)",
+      "+20-40% Faster Cast Rate",
+      "+9 to Minimum Damage",
+      "Ignore Target's Defense",
+      "+30 to Attack Rating",
+      "+35-55% to Magic Skill Damage",
+      "+4-7 to Fist of the Heavens (Paladin Only)",
+      "Maximum Life +3-25%",
+      "Regenerate Mana 20-40%",
+      "Magic Absorb +6-12%",
+      "Damage Reduced by 20-25%",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 77,
+    "sockets": 4
+  },
+  {
+    "name": "Breath of the Dying",
+    "rmd": null,
+    "aw": "W",
+    "item_types": [
+      "Any Weapon"
+    ],
+    "clvl": 50,
+    "runes": [
+      "Vex",
+      "Hel",
+      "El",
+      "Eld",
+      "Zod",
+      "Eth"
+    ],
+    "class_rw": null,
+    "points": 1032.0,
+    "affixes": [
+      "Vex Hel El Eld Zod Eth",
+      "Any Weapon (6os)",
+      "50% CtC level 20 Poison Nova on kill",
+      "+60% Increased Attack Speed",
+      "+350-400% Enhanced Damage",
+      "-25% Target Defense",
+      "+30 to Attack Rating",
+      "+200% Damage to Undead",
+      "+50 to Attack Rating against Undead",
+      "5% Mana stolen per hit",
+      "12-15% Life stolen per hit",
+      "Prevent Monster Heal",
+      "+30 to All Attributes",
+      "+1 to Light Radius",
+      "Requirements -20%",
+      "Call to Arms",
+      "Amn Ral Mal Ist Ohm",
+      "Any Weapon (5os)",
+      "+1 to All Skills",
+      "+40% Increased Attack Speed",
+      "+235-275% Enhanced Damage",
+      "Adds 3-15 Fire Damage",
+      "5% Life stolen per hit",
+      "Prevent Monster Heal",
+      "+2-6 to War Stance",
+      "+1-4 to Battle Cry",
+      "1-6 to Shout",
+      "Replenish Life +12",
+      "+15% Increased Magic Find"
+    ],
+    "rune_weight": 82,
+    "sockets": 6
+  },
+  {
+    "name": "Oblivion",
+    "rmd": "RMD",
+    "aw": "W",
+    "item_types": [
+      "Bows",
+      "X-Bows",
+      "Spell Blades"
+    ],
+    "clvl": 50,
+    "runes": [
+      "Zod",
+      "El",
+      "Tir",
+      "Ral",
+      "Mal"
+    ],
+    "class_rw": null,
+    "points": 1025.0,
+    "affixes": [
+      "Zod El Tir Ral Mal",
+      "Bows/Crossbows/Spell Blades (5os)",
+      "5% CtC Level 5 Mass Enchant on hit",
+      "10% CtC Level 10 Life Tap on kill",
+      "Level 10-12 Conviction Aura when equipped",
+      "+360-400% Enhanced Damage",
+      "+30 to Attack Rating",
+      "+3-15 Fire Damage",
+      "-25% to -35% All Enemy Resistances",
+      "Prevent Monster Heal",
+      "+1-3 Spell Power",
+      "+1.5 Life per Character Level",
+      "+2 Mana after each kill",
+      "+1 to Light Radius"
+    ],
+    "rune_weight": 68,
+    "sockets": 5
+  }
+]
