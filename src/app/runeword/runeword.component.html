@@ -1,5 +1,5 @@
 <article class="item">
-  <header><h2>{{name}} ({{data?.sockets}})</h2>
+  <header><h4>{{name}} ({{data?.sockets}}<span *ngIf="data?.class_rw"> - {{data?.class_rw}}</span>)</h4>
     <strong>{{data?.item_types}}</strong>
 
     <div class="runes">
@@ -10,12 +10,6 @@
 
   </header>
   <ng-container *ngIf="data">
-    <div class="info">
-      <ul>
-        <li *ngIf="data.class_rw">class: {{data.class_rw}}</li>
-      </ul>
-    </div>
-
     <div class="flex-list">
       <span *ngFor="let d of data.affixes.slice(2)">{{d}}</span>
     </div>
