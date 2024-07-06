@@ -20,7 +20,7 @@ jobs:
         run: npm run build
       - name: Deploy to gh pages
         run: | 
-          ls dist/d2remodded-rw/browser &&
+          ls dist/d2remodded-rw &&
           npx angular-cli-ghpages --dir=dist/d2remodded-rw/browser --no-silent
         env:
           CI: true
