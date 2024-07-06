@@ -1,0 +1,15 @@
+<article *ngIf="values">
+  <form [formGroup]='form'>
+    <div class="runes-flex">
+      <div class="rune-select" *ngFor="let r of values">
+        <input id="{{r}}" [formControlName]="r" type="checkbox" [name]="r" [value]="r" [defaultChecked]="false"
+               (change)="updateSelected()">
+        <label for="{{r}}">
+          {{r}}
+        </label>
+      </div>
+    </div>
+
+  </form>
+
+</article>

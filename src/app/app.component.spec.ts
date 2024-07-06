@@ -14,16 +14,16 @@ describe('AppComponent', () => {
     expect(app).toBeTruthy();
   });
 
-  it(`should have the 'd2remodded' title`, () => {
+  it(`should have the 'd2remodded-rw' title`, () => {
     const fixture = TestBed.createComponent(AppComponent);
     const app = fixture.componentInstance;
-    expect(app.title).toEqual('d2remodded');
+    expect(app.title).toEqual('d2remodded-rw');
   });
 
   it('should render title', () => {
     const fixture = TestBed.createComponent(AppComponent);
     fixture.detectChanges();
     const compiled = fixture.nativeElement as HTMLElement;
-    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, d2remodded');
+    expect(compiled.querySelector('h1')?.textContent).toContain('Hello, d2remodded-rw');
   });
 });

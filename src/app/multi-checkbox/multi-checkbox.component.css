@@ -1,0 +1,18 @@
+.runes-flex {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+
+.rune-select {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.rune-select > input[type="checkbox"] {
+  margin-right: 0;
+  margin-bottom: 5px;
+}

@@ -1,0 +1,17 @@
+.runes {
+  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+}
+
+.item{
+  display: grid;
+  max-width: fit-content;
+  text-align: center;
+}
+
+.affix-list{
+  display:flex;
+  flex-direction: column;
+}

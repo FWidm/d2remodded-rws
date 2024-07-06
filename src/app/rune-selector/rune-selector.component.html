@@ -1,0 +1,17 @@
+<article *ngIf="runes">
+  <h2>Select Runes</h2>
+
+  <form [formGroup]='form'>
+    <div class="runes-flex">
+      <div class="rune-select" *ngFor="let r of getKeys(runes)">
+        <input id="{{r}}" [formControlName]="r" type="checkbox" [name]="r" [value]="r" [defaultChecked]="false"
+               (change)="updateSelected()">
+        <label for="{{r}}">
+          <app-rune [name]="r" [rune]="runes[r]"></app-rune>
+        </label>
+      </div>
+    </div>
+
+  </form>
+
+</article>
