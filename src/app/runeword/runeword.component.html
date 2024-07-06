@@ -1,27 +1,29 @@
 <article class="item">
-  <header><h2>{{name}}</h2>
+  <header><h2>{{name}} ({{data?.sockets}})</h2>
+    <strong>{{data?.item_types}}</strong>
+
     <div class="runes">
     <span *ngFor="let r of data?.runes">
             <app-rune [name]="r" [rune]="runes?.[r]"></app-rune>
     </span>
     </div>
-    <div class="flex-stats">
-      <span>Clvl: {{data?.clvl}}</span>
-      <span>Sockets: {{data?.sockets}}</span>
-      <span>rune weight: {{data?.rune_weight}}</span>
-      <span>items: {{data?.item_types}}</span>
-    </div>
+
   </header>
   <ng-container *ngIf="data">
     <div class="info">
       <ul>
-
         <li *ngIf="data.class_rw">class: {{data.class_rw}}</li>
       </ul>
     </div>
 
-    <div class="affix-list">
+    <div class="flex-list">
       <span *ngFor="let d of data.affixes.slice(2)">{{d}}</span>
     </div>
   </ng-container>
+  <footer>
+    <div class="flex-list">
+      <span>Clvl: {{data?.clvl}}</span>
+      <span>rune weight: {{data?.rune_weight}}</span>
+    </div>
+  </footer>
 </article>

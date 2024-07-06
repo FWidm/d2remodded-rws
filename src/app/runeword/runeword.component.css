@@ -11,7 +11,7 @@
   text-align: center;
 }
 
-.affix-list{
+.flex-list{
   display:flex;
   flex-direction: column;
 }
