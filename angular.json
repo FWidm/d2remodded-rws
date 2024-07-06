@@ -13,7 +13,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/d2remodded",
+            "outputPath": "dist/d2remodded-rw",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -60,10 +60,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "d2remodded:build:production"
+              "buildTarget": "d2remodded-rw:build:production"
             },
             "development": {
-              "buildTarget": "d2remodded:build:development"
+              "buildTarget": "d2remodded-rw:build:development"
             }
           },
           "defaultConfiguration": "development"
