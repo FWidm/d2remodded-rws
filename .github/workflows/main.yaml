@@ -15,13 +15,11 @@ jobs:
           node-version: 20
       - name: Install Dependencies
         run: npm install
-
       - name: Build Angular App
         run: npm run build
       - name: Deploy to gh pages
         run: |
-          ls dist/d2remodded-rw &&
-          npx angular-cli-ghpages --dir=dist/d2remodded-rw/browser --no-silent
+          npx angular-cli-ghpages --dir=dist/d2remodded-rw/browser --no-silent --name="fwidm" --email="3480240+FWidm@users.noreply.github.com"
         env:
           CI: true
           GH_TOKEN: ${{ secrets.GH_TOKEN  }}
